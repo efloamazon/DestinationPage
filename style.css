@@ -1,0 +1,23 @@
+.top_container {
+    padding: 2em;
+    text-align: center;
+    background-color: lightgrey;
+}
+
+.bottom_container {
+    padding: 1em;
+    display: flex;
+    flex-direction: row;
+
+}
+
+.left_box{
+    margin-left: 50px;
+    
+}
+
+.right_box {
+    justify-content: right;
+    margin-inline: 100px;
+    background-color: aqua;
+}
